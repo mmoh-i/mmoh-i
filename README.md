@@ -1,7 +1,8 @@
 - 👋 Hi, I’m mustapha Muhd Ibrahim
 - 👀 I’m interested in Data science, Machine Learning,API's and AI
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently ongoing the ALX Software Engineering Programme
 - 💞️ I’m looking to collaborate on projects to help boost my knowledge on the aforementioned areas
+- 💭 Always open to learning new things
 - 📫 How to reach me @ibrahimmusty.me@gmail.com or Twitter @MI_Musty
 
 <!---
